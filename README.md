@@ -1,18 +1,9 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Performance Audit 
 
 Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
-## Titel Website
+## Youtube.com
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+<img width="1920" alt="Screenshot 2023-06-22 at 22 56 43" src="https://github.com/D-spacezero/performance-matters-performance-audit/assets/112856412/9f3e50f1-8a4e-4587-ac31-afecf9ed7626">
 
-Toon een screenshot van de performance test.
-
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
-
-
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
+Ik heb de website van Youtube getest. Dit omdat een van s'werelds meest bekende websites is met eindeloos veel content dat elke dag geupload word en te bekijken is. Misschien wel HET online platform om video te bekijken. Bekijk de analyse van Youtube, wat gaat er goed en wat niet? En hoe kunnen deze dingen verbeterd worde! Lees het in de wiki: https://github.com/D-spacezero/performance-matters-performance-audit/wiki
